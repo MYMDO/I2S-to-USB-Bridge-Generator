@@ -1,0 +1,5 @@
+{
+  "name": "I2S to USB Bridge Generator",
+  "description": "Generates professional firmware to convert I2S microphones into driverless Windows USB Audio devices using ESP32-S3 or RP2040.",
+  "requestFramePermissions": []
+}
